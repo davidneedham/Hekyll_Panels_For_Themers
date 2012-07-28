@@ -2,7 +2,7 @@
 layout: default
 title: Panels' layout builder
 subtitle: (don't use it)
-bgimageurl: /images/slide-backgrounds/layout-builder.png
+bgimageurl: images/slide-backgrounds/layout-builder.png
 published: true
 classes:
  - slide

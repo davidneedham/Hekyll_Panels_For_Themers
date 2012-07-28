@@ -2,7 +2,7 @@
 layout: default
 title: Custom layouts
 subtitle: (in code)
-bgimageurl: /images/slide-backgrounds/layouts.png
+bgimageurl: images/slide-backgrounds/layouts.png
 published: true
 classes:
  - slide

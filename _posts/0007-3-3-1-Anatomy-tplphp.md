@@ -2,7 +2,7 @@
 layout: default
 title: Anatomy of layouts
 subtitle: the .tpl.php file
-bgimageurl: /images/slide-backgrounds/anatomy-tplphp.jpg
+bgimageurl: images/slide-backgrounds/anatomy-tplphp.jpg
 published: true
 classes:
  - slide

@@ -2,7 +2,7 @@
 layout: default
 title: Where is the code?
 subtitle: panels/plugins/layouts
-bgimageurl: /images/slide-backgrounds/where.png
+bgimageurl: images/slide-backgrounds/where.png
 published: true
 classes:
  - slide

@@ -2,7 +2,7 @@
 layout: default
 title: Why do I love panels?
 subtitle: 1. Custom layouts
-bgimageurl: /images/slide-backgrounds/layouts.png
+bgimageurl: images/slide-backgrounds/layouts.png
 published: true
 classes:
  - slide

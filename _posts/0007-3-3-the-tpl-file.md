@@ -2,7 +2,7 @@
 layout: default
 title: The .tpl.php file
 subtitle: (tipple fip)
-bgimageurl: /images/slide-backgrounds/file-tplphp.png
+bgimageurl: images/slide-backgrounds/file-tplphp.png
 published: true
 classes:
  - slide

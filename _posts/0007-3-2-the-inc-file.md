@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The .inc file
-bgimageurl: /images/slide-backgrounds/file-inc.png
+bgimageurl: images/slide-backgrounds/file-inc.png
 published: true
 classes:
  - slide

@@ -2,7 +2,7 @@
 layout: default
 title: Theming the next level
 subtitle: 1. Flexible layouts
-bgimageurl: /images/slide-backgrounds/flexibility.png
+bgimageurl: images/slide-backgrounds/flexibility.png
 published: true
 classes:
  - slide

@@ -2,7 +2,7 @@
 layout: default
 title: Anatomy of layouts
 subtitle: the .css file
-bgimageurl: /images/slide-backgrounds/anatomy-css.jpg
+bgimageurl: images/slide-backgrounds/anatomy-css.jpg
 published: true
 classes:
  - slide

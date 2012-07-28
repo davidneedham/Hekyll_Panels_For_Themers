@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The .png file
-bgimageurl: /images/slide-backgrounds/file-png.png
+bgimageurl: images/slide-backgrounds/file-png.png
 published: true
 classes:
  - slide

@@ -2,7 +2,7 @@
 layout: default
 title: Anatomy of layouts
 subtitle: the .inc file
-bgimageurl: /images/slide-backgrounds/anatomy-inc.png
+bgimageurl: images/slide-backgrounds/anatomy-inc.png
 published: true
 classes:
  - slide

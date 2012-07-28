@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The .css file
-bgimageurl: /images/slide-backgrounds/file-css.png
+bgimageurl: images/slide-backgrounds/file-css.png
 published: true
 classes:
  - slide

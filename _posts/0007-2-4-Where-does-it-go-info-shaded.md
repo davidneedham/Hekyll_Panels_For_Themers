@@ -2,7 +2,7 @@
 layout: default
 title: Where do I put it?
 subtitle: 2. The .info file
-bgimageurl: /images/slide-backgrounds/info.jpg
+bgimageurl: images/slide-backgrounds/info.jpg
 published: true
 classes:
  - slide
