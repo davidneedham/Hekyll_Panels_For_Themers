@@ -1,4 +1,4 @@
-# Beginner Theming
+# Panels for Themers: Creating Highly Flexible Layouts
 _a hekyll* presentation originally created for CapitalCamp 2012_
 
 Authored by: David Needham (davidneedham)
