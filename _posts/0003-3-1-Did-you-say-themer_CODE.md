@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "html, css, php, jQuery..."
+title: html, css, php, jQuery...
 bgimageurl: images/code.png
 published: true
 classes:

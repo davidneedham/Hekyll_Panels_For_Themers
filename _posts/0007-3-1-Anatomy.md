@@ -1,14 +1,15 @@
 ---
 layout: default
-title: ""
+title: Anatomy of layouts
+bgimageurl: /images/slide-backgrounds/anatomy.png
 published: true
 classes:
  - slide
  - regular-slide
+ - dark-background
 data:
   x: 0
   y: 0
 
 ---
 
-# A theme by any other name...

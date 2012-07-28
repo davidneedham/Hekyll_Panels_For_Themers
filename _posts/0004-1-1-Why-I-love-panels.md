@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Why I love panels"
-subtitle: (sub menu)
+title: Why do I love panels?
 bgimageurl: /images/slide-backgrounds/421114187_411c927572_o.jpeg
 published: true
 classes:

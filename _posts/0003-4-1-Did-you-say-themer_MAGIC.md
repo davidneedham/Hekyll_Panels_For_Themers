@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Theming <br />Magic!<sup>&trade;</sup>"
+title: Theming <br />Magic!<sup>&trade;</sup>
 bgimageurl: images/screenshot.png
 published: true
 classes:

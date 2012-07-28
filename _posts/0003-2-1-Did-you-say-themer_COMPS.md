@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Wireframes..."
+title: Wireframes...
 bgimageurl: images/wireframes.jpg
 published: true
 classes:

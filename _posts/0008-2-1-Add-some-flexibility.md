@@ -1,13 +1,16 @@
 ---
 layout: default
-title: ""
+title: Theming the next level
+subtitle: 1. Flexible layouts
+bgimageurl: /images/slide-backgrounds/flexibility.png
 published: true
 classes:
- - naked
+ - slide
+ - regular-slide
+ - dark-background
 data:
   x: 0
   y: 0
 
 ---
 
-<img src="images/rose_theme_folder.png" />

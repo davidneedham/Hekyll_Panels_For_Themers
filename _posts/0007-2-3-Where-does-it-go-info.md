@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Custom layouts
-subtitle: (in code)
-bgimageurl: /images/slide-backgrounds/layouts.png
+title: Where do I put it?
+subtitle: 2. The .info file
+bgimageurl: /images/slide-backgrounds/info.png
 published: true
 classes:
  - slide
@@ -13,3 +13,4 @@ data:
   y: 0
 
 ---
+

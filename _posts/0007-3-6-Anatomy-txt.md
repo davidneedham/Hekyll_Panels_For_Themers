@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Custom layouts
-subtitle: (in code)
-bgimageurl: /images/slide-backgrounds/layouts.png
+title: Anatomy of layouts
+subtitle: the .txt file
+bgimageurl: /images/slide-backgrounds/anatomy-txt.jpg
 published: true
 classes:
  - slide
@@ -13,3 +13,4 @@ data:
   y: 0
 
 ---
+

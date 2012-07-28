@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Panels for Themers"
+title: Panels for Themers
 published: true
 classes:
  - slide

@@ -1,4 +1,8 @@
 /* THIS PRESENTATION-SPECIFIC STYLINGS */
+body{
+	background: url('/images/slide-backgrounds/aurora.jpg') no-repeat center center;
+	background-size: 100% !important;
+}
 
 /* OTHER STYLES */
 .title-slide h1{
@@ -25,7 +29,9 @@ img{
   display: inline;
 }
 .slide.background-image{
-  background: no-repeat center bottom transparent, no-repeat center center transparent;
+  background: center bottom, center center;
+  background-color: #FFF;
+  background-repeat: no-repeat;
   background-size: 100%;
 }
 .slide.background-image.bgtop{
@@ -52,8 +58,13 @@ sup{
   vertical-align: text-top !important;
 }
 h1.post-title{
+  display: inline;
 }
 h3.post-subtitle{
+  display: inline;
+  line-height: 66px;
+  position: relative;
+  top: 9px;
 }
 
 /*
@@ -346,12 +357,13 @@ pre, code {
 .title-slide{
   height: 640px;
   width: 1024px;
+  padding-top: 150px;
   margin: 0 auto;
   display:block;
   text-align: center;
 }
 .regular-slide{
-  background: transparent url('../../../images/footer.png') no-repeat center bottom;
+  background: #ffffff url('../../../images/footer.png') no-repeat center bottom;
   background-size: 100%;
   width: 930px;
 }

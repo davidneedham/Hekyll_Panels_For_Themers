@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Custom layouts
-subtitle: (in code)
-bgimageurl: /images/slide-backgrounds/layouts.png
+title: Panels' layout builder
+subtitle: (don't use it)
+bgimageurl: /images/slide-backgrounds/layout-builder.png
 published: true
 classes:
  - slide
