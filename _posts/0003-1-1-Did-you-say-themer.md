@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Wait a minute..."
 published: true
 classes:
  - slide
@@ -11,5 +11,4 @@ data:
 
 ---
 
-# Wait a minute...
-## Did you say themer?
+### Did you say themer?
