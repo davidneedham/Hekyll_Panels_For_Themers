@@ -13,4 +13,5 @@ data:
 
 Presented by David Needham<br />
 &#8226; on July 28th, 2012 &#8226;
-### CapitalCamp 2012
+### CapitalCamp 2012<br /><br />
+<p>Slides: <b>http://is.gd/ccamp_panels</b></p>
