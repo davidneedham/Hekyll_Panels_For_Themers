@@ -13,5 +13,4 @@ data:
 
 Presented by David Needham<br />
 &#8226; on August 1st, 2012 &#8226;
-### for the Acquia Webinar series<br /><br />
 <p>Slides: <b>http://is.gd/panel_webinar</b></p>
