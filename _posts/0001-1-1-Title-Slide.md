@@ -14,4 +14,4 @@ data:
 Presented by David Needham<br />
 &#8226; on August 1st, 2012 &#8226;
 ### <br /><br />
-<p>Slides: <b>http://is.gd/panels_webinar</b></p>
+<p>Slides: <b>http://is.gd/panel_webinar</b></p>
