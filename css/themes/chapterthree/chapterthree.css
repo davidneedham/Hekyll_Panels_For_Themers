@@ -1,7 +1,7 @@
 /* THIS PRESENTATION-SPECIFIC STYLINGS */
 body{
-	background: url('images/aurora.jpg') no-repeat center center;
-	background-size: 100% !important;
+	background: url('/images/aurora.jpg') no-repeat center center;
+	background-size: cover !important;
 }
 
 /* OTHER STYLES */
