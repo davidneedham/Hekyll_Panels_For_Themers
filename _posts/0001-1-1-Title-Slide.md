@@ -10,7 +10,8 @@ data:
   x: 0
   y: 0
 ---
-
-Presented by<br />
-David Needham & Eric Casequin<br />
+<p>&nbsp;</p>
+<p>Presented by<br />
+<b>David Needham</b> and <b>Eric Casequin</b></p>
+<p>&nbsp;</p>
 <p>Slides: <b>http://is.gd/panelsforthemers</b></p>
