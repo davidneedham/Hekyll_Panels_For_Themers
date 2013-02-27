@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wait a minute...
-subtitle: did you say themer?
+subtitle: what is a themer?
 published: true
 classes:
  - slide
