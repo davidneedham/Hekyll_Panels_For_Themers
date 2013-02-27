@@ -12,5 +12,5 @@ data:
 ---
 <p>Presented by<br />
 <b>David Needham</b><br /></p>
-<p><img width="400px" style="float:none;" src="/images/logo-huge-white.png" /></p>
+<p><img width="400px" style="float:none;" src="images/logo-huge-white.png" /></p>
 <p>Slides: <b>http://is.gd/panelsforthemers</b></p>

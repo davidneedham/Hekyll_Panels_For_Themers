@@ -1,4 +1,4 @@
-<div {% if post.slide-id %}id="{{post.slide-id}}"{%endif %} class="step{%if post.classes | size %}{% for class in post.classes %} {{class}}{% endfor %}{% else %} slide{% endif %}{% if post.bgimageurl %} background-image{% endif %}" {% unless site.simple-slideshow %}{% for attr in post.data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}{% endunless %}   {% if post.bgimageurl %}style="background-image:url('../../../images/footer.png'),url('{{ post.bgimageurl }}');"{% endif %}
+<div {% if post.slide-id %}id="{{post.slide-id}}"{%endif %} class="step{%if post.classes | size %}{% for class in post.classes %} {{class}}{% endfor %}{% else %} slide{% endif %}{% if post.bgimageurl %} background-image{% endif %}" {% unless site.simple-slideshow %}{% for attr in post.data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}{% endunless %}   {% if post.bgimageurl %}style="background-image:url('http://davidneedham.github.com/Hekyll_Panels_For_Themers/images/footer.png'),url('{{ post.bgimageurl }}');"{% endif %}
 >
   {% if post.title %}<h1 class="post-title">{{ post.title }}</h1>{% endif %}
   {% if post.subtitle %}<br /><h3 class="post-subtitle">{{ post.subtitle }}</h3>{% endif %}
